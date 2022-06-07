@@ -10,16 +10,16 @@ The vehicle speed detection system is developed using video processing technique
 
 ## Tools and Technologies
 
-Haar Cascade. 
-cmake==3.120. 
-dlib==19.16.0. 
-numpy==1.15.3. 
-opencv-python==3.4.3.1. 
-python. 
-pytesseract. 
-imutils. 
-pandas. 
-PIL
+- Haar Cascade
+- cmake==3.120
+- dlib==19.16.0
+- numpy==1.15.3
+- opencv-python==3.4.3.1
+- python
+- pytesseract
+- imutils
+- pandas
+- PIL
 
 ## Demo of the working system
 
